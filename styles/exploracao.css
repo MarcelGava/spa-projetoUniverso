@@ -1,0 +1,41 @@
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  background: url('/assets/mountains-universe-3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 85vh;
+  width: 100%;
+}
+
+.main {
+  font-family: 'Roboto', sans-serif;
+  color: #e1e1e6;
+  margin-top: 6.3rem;
+  margin-left: 10.2rem;
+  width: 64.7rem;
+  height: 27.9rem;
+}
+
+.main h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 125%;
+}
+
+.main p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  margin-top: 1.6rem;
+}
